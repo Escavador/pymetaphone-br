@@ -1,0 +1,6 @@
+/env.ini
+/env.toml
+/poetry.lock
+/__pycache__
+.idea
+/assets
