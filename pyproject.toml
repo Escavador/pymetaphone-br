@@ -22,7 +22,7 @@ exclude = '''
 
 [tool.poetry]
 name = "pymetaphone-br"
-version = "0.0.1"
+version = "0.0.2"
 description = "Pacote do algoritmo Metaphone para a língua portuguesa "
 
 license = "LGPL"
@@ -32,7 +32,7 @@ authors = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.11"
+python = ">=3.10,<3.13"
 unidecode = "*"
 
 [tool.poetry.dev-dependencies]
