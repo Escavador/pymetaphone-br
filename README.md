@@ -1,5 +1,5 @@
 # Pymetaphone-br
-
+[![PyPI version](https://badge.fury.io/py/pymetaphone-br.svg)](https://badge.fury.io/py/pymetaphone-br)
 Algoritmo de Metaphone ( alternativa ao Soundex) para a língua portuguesa em Python
 
 ### Créditos ###
